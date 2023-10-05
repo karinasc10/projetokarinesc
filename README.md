@@ -1,3 +1,6 @@
+##LINK DO PROJETO
+https://projetokarinesc.eads.app/
+
 # Instalação do Site PHP e Configuração do Sistema de Bate-Papo
 
 Este guia descreve os passos necessários para instalar o site PHP e configurar o sistema de bate-papo. Siga as instruções abaixo para configurar seu ambiente de desenvolvimento local e fazer as configurações necessárias.
